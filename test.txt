@@ -1,4 +1,1 @@
-xin chao
-hallo
-xin chao cac ban
-aa
+logger.info("main");
