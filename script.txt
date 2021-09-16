@@ -1,5 +1,5 @@
 {
 	margin: 20px,
 	padding: 40px,
-	bottom: 100px
+	top: 100px
 }
