@@ -2,5 +2,5 @@
 	margin: 20px,
 	padding: 40px,
 	bot: 100px
-	center: 100px
+	center: 1000px
 }
