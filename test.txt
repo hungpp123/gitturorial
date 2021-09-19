@@ -1,2 +1,3 @@
 logger.info("main has new change");
 logger.info("hallo from main");
+logger.info("test rebase");
