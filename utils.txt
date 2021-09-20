@@ -1,3 +1,7 @@
 main
 logger.info("main");
+<<<<<<< HEAD
+logger.info("test");
+=======
 logger.info("test merge");
+>>>>>>> main
