@@ -1,7 +1,3 @@
 main
-logger.info("main");
-<<<<<<< HEAD
-logger.info("test");
-=======
-logger.info("test merge");
->>>>>>> main
+logger.info("main1");
+logger.info("test1");
