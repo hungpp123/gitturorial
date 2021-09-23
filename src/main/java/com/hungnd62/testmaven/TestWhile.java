@@ -8,7 +8,7 @@ public class TestWhile {
             System.out.println(i);
         } while (i <= 10);
         int a = 10;
-        System.out.println("TestFunction: ");
+        System.out.println("Result TestFunction: ");
         System.out.println(increment(a));
         System.out.println(a);
         System.out.println(factorial(4));
@@ -20,7 +20,7 @@ public class TestWhile {
         } else return 1;
     }
 
-    static int increment(int a) {
+    static double increment(double a) {
         a = a + 1;
         return a;
     }
