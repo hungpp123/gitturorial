@@ -11,7 +11,7 @@ package com.hungnd62.testmaven;
  */
 public class Start {
     public static void main(String[] args) {
-        System.out.print("Hello from Maven!");
+        System.out.print("Xin chao cac ban!");
     }
     
     
