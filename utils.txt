@@ -1,3 +1,0 @@
-main
-logger.info("main1");
-logger.info("test1");
