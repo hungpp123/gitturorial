@@ -20,7 +20,7 @@ public class TestWhile {
         } else return 1;
     }
 
-    static double increment(double a) {
+    static int increment(int a) {
         a = a + 1;
         return a;
     }
