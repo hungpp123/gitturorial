@@ -10,9 +10,17 @@ package com.hungnd62.testmaven;
  * @author Admin
  */
 public class Start {
-    public static void main(String[] args) {
-        System.out.print("Xin chao cac ban!");
+    static void m(Integer l) {
+        System.out.println("Integer");
     }
-    
-    
+
+    static void m(int l) {
+        System.out.println("int");
+    }
+
+    public static void main(String args[]) {
+        short a = 30;
+        m(a);
+    }
 }
+
